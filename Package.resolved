@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DiscreteMathematics",
+        "repositoryURL": "https://github.com/cszatma/DiscreteMathematics.git",
+        "state": {
+          "branch": null,
+          "revision": "d586c98cd1bc660b838e4dd308f9f5e7c7a0529f",
+          "version": "1.3.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
