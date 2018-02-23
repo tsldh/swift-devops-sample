@@ -4,12 +4,12 @@
 import PackageDescription
 
 let package = Package(
-    name: "swift-devops-sample",
+    name: "swift_devops_sample",
     dependencies: [
     ],
     targets: [
         .target(
-            name: "swift-devops-sample",
+            name: "swift_devops_sample",
             dependencies: []),
         .testTarget(
             name: "swift_devops_sample_tests",
