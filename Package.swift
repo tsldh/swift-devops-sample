@@ -12,7 +12,7 @@ let package = Package(
             name: "swift-devops-sample",
             dependencies: []),
         .testTarget(
-            name: "swift-devops-sample-tests",
+            name: "swift_devops_sample_tests",
             dependencies: []
         )
     ]
